@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    
+    
+}
+.container{
+    background: rgb(46, 41, 41);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+.boxcontainer{
+    background: rgb(142, 80, 223);
+    height: 400px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+}
+
+.uno{
+    background: rgb(235, 71, 71);
+    height: 200px;
+    width: 200px;
+    border-radius: 15px;
+}
+
